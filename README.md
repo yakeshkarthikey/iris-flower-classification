@@ -1,2 +1,2 @@
-# oasis_infobyte
+# iris flower classification
 A repository consists set of oasis internship tasks 
